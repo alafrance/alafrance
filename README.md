@@ -16,6 +16,4 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alexis-lafrance" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/alexis-lafrance" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alafrance&show_icons=true&locale=en" alt="alafrance" /></p>
-
 <p><img align="center" src="https://badge42.herokuapp.com/api/stats/alafranc"></p>
