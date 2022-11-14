@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alexis</h1>
 <h3 align="center">A student at 42 lyon</h3>
 
-- 🔭 I’m currently working on Application to learn Japanese
+- 🔭 I’m currently working in Edgenda at Montréal
 
-- 🌱 I’m currently learning **C++, Python (Django)**
+- 🌱 I’m currently learning **Figma, React and AWS / AWS Amplify**
 
 - 📫 How to reach me **alexislafrance42@gmail.com**
 
