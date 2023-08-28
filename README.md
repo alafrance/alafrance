@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alexis</h1>
 <h3 align="center">A student at 42 lyon</h3>
 
-- 🔭 I’m currently working in Edgenda at Montréal
+- 🔭 I’m currently working at Affordance Studio in Montreal
 
-- 🌱 I’m currently learning **Figma, React and AWS / AWS Amplify**
+- 🌱 I’m currently learning **Video Game Development**
 
 - 📫 How to reach me **alexislafrance42@gmail.com**
 
